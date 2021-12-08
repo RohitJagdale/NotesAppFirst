@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371485048805",
+    "project_id": "notesappfirst",
+    "storage_bucket": "notesappfirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371485048805:android:22baba7d7d7addca31b90c",
+        "android_client_info": {
+          "package_name": "com.example.notesappfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371485048805-vvh84bnkdt20cetspd7ldsd40imebhav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB66vMYJC54tn95ypGRCIDVlsuDbIT1UIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371485048805-vvh84bnkdt20cetspd7ldsd40imebhav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
